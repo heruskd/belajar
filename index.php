@@ -1,4 +1,5 @@
 <?php
 echo "haui";
+
+echo "Sekolah koding";
 ?>
-<h1> Tes ini <h1/>
